@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"><img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/66c1b6af-81d1-494c-85ec-a9342a47ed8e" />
+
   <h1>Hi 👋, I'm Aaditya Deswal</h1>
   <h3>💻 Software Engineer Aspirant</h3>
   <p>
